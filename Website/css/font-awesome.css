@@ -352,6 +352,8 @@
 }
 .fa-list:before {
   content: "\f03a";
+  color: grey;
+
 }
 .fa-dedent:before,
 .fa-outdent:before {

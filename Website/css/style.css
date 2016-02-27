@@ -37,6 +37,17 @@ Version:1.1 */
 /* CSS Reset & Clear
 /*----------------------------------------------------------------------------------- */
  
+/*Feature
+==========================*/
+.feature-box{
+	margin-top: 60px;
+	text-align: center;
+}
+.cnt-title { text-align: center; margin-bottom: 50px;}
+.cnt-title span { 
+	font-size: 24px;
+	font-weight: 200;
+}
 
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,
 abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,
