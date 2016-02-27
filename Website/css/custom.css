@@ -1336,7 +1336,7 @@ padding: 8px 15px;
 ====================================== */
 
 #counter_area{
-    color: #000;
+    color: #fff;
      background: url('../images/bg/5.jpg') no-repeat fixed 50% 0px / cover black;
     position: relative; 
     margin: 0 auto;
@@ -1370,19 +1370,19 @@ padding: 8px 15px;
 }
 
 .facts-wrap h6{
-    font-weight:700;
+    font-weight:100;
     padding-top:15px;
     text-transform:uppercase;
     text-align:center;
     letter-spacing:2px;
-    font-size: 20px; 
+    font-size: 15px; 
     line-height:18px;
-    color: #000!important;
+    color: #fff!important;
     margin-top: 15px;
 }
 .facts-wrap-num{
-    color:#000;
-    font-size: 50px; 
+    color:#fff;
+    font-size: 30px; 
     line-height:60px;
     width:100%;
     margin:0 auto;
@@ -1416,7 +1416,7 @@ padding: 8px 15px;
     top: 0;
     height: 100%;
     width: 200%;
-    border: 5px #000 solid;
+    border: 1px #fff solid;
     border-radius: 50%;
     content: '';
 }
